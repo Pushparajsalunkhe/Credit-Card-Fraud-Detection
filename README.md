@@ -68,8 +68,9 @@ Try multiple models:
 
 ## 🔹 Step 9: **Uses Streamlit 
 
-*Open-source python framework
-*Transform python scripts into interactive web apps
+* **Open-source python framework
+
+* **Transform python scripts into interactive web apps
 
 
 
