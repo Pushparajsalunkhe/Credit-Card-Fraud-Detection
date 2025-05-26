@@ -47,7 +47,7 @@ Build a machine learning model to detect fraudulent credit card transactions fro
   
 * Use libraries:
 
-  *  `pandas` `numpy`
+  *  `pandas` `numpy` `scikit-learn`
 
 ---
 
@@ -66,7 +66,7 @@ Try multiple models:
 * Fit models using training data.
 ---
 
-## 🔹 Step 9: **Uses Streamlit 
+## 🔹 Step 9: **Uses Streamlit**
 
 * Open-source python framework
 
