@@ -47,7 +47,7 @@ Build a machine learning model to detect fraudulent credit card transactions fro
   
 * Use libraries:
 
-  *  `pandas` 'numpy'
+  *  `pandas` `numpy`
 
 ---
 
