@@ -42,14 +42,12 @@ Build a machine learning model to detect fraudulent credit card transactions fro
 
 ## 🔹 Step 4: **Exploratory Data Analysis (EDA)**
 
-* Visualize data:
-
   * Fraud vs. Non-Fraud distribution
   * Amount distribution in fraud cases
-  * Correlation heatmap
+  
 * Use libraries:
 
-  * `matplotlib`, `seaborn`, `pandas`
+  *  `pandas` 'numpy'
 
 ---
 
@@ -68,6 +66,11 @@ Try multiple models:
 * Fit models using training data.
 ---
 
-## 🔹 Step 9: **Deploy the Model (Optional)**
+## 🔹 Step 9: **Uses Streamlit 
+
+*Open-source python framework
+*Transform python scripts into interactive web apps
+
+
 
 
